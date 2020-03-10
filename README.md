@@ -1,4 +1,5 @@
 # cpython-performance
+to compare performance between c/c++ and python language
 compare cpython c/c++ and pypy performance
 gcc ccalc.c -o ccalc
 pi@raspberrypi:~/PROJECT/temp $ ./ccalc
